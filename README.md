@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Prakash (pky1987)</h2>
+<h2>Prakash Yadav(pky1987)</h2>
 <p>Smart Contract Developer | Blockhain | Rust | Elixir | Open‑Source Contributor</p>
 
 <p>
