@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/153809302?v=4" alt="pky1987 avatar" width="120" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/153809302?v=4" alt="pky1987 avatar" width="160" style="border-radius: 50%;" />
 
 <h2>Prakash (pky1987)</h2>
 <p>Smart Contract Developer | Solidity Enthusiast | Open‑Source Contributor</p>
