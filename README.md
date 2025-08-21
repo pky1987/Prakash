@@ -19,6 +19,7 @@
 - **merkle‑tree‑blockchain** – Verifiable blockchain using Merkle Trees  
 - **Pet** – Kotlin‑based pet shopping app  
 - **RenewGen** – App for real‑time renewable energy insights and tracking
+- **Ultra PiP Pro** - Extension for Picture-in-Picture mode
 
 ---
 
