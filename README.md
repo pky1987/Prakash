@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Avatar -->
-<img src="https://avatars.githubusercontent.com/u/153809302?v=4" align="start" alt="pky1987 avatar" width="30" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/153809302?v=4" align="left" alt="pky1987 avatar" width="60" style="border-radius: 50%;" />
 
 <!-- Name and tagline -->
 <h2>Prakash (pky1987)</h2>
