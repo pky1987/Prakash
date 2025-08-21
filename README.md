@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Prakash (pky1987)
 
-**Mumbai‑based Web3 Developer | Solidity Enthusiast | Open‑Source Contributor**
+** Web3 Developer | Solidity Enthusiast | Open‑Source Contributor**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/pky1987)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
