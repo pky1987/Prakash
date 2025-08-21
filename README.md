@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/153809302?v=4" alt="pky1987 avatar" width="160" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/153809302?v=4" alt="pky1987 avatar" width="40" style="border-radius: 40%;" />
 
 <h2>Prakash (pky1987)</h2>
 <p>Smart Contract Developer | Solidity Enthusiast | Open‑Source Contributor</p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/pky1987?label=Followers&style=social)](https://github.com/pky1987)
-
 <p>
-  <a href="http://discord.gg/fbDyENb6Y9" target="_blank">Discord</a> •
-  <a href="https://twitter.com/erc4337" target="_blank">@erc4337</a>
+  <a href="[https://linkedin.com/in/prakash-yadav-705775374?utm_source=share_via&utm_content=profile" target="_blank">LinkedIn</a> 
 </p>
 
 <p>
