@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Avatar -->
-<img src="https://avatars.githubusercontent.com/u/153809302?v=4" alt="pky1987 avatar" width="120" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/153809302?v=4" alt="pky1987 avatar" width="30" style="border-radius: 50%;" />
 
 <!-- Name and tagline -->
 <h2>Prakash (pky1987)</h2>
@@ -12,8 +12,7 @@
 
 <!-- Website or Discord -->
 <p>
-  <a href="http://discord.gg/fbDyENb6Y9" target="_blank">Discord</a> &nbsp;•&nbsp;
-  <a href="https://twitter.com/erc4337" target="_blank">@erc4337</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/prakash-yadav-705775374?utm_source=share_via&utm_content=profile" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/pky1987" target="_blank">GitHub</a>
 </p>
 
