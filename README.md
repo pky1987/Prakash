@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Prakash (pky1987)
 
-** Smart Contract Developer | Solidity Enthusiast | Open‑Source Contributo**
+**Smart Contract Developer | Solidity Enthusiast | Open‑Source Contributor**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/pky1987)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prakash-yadav-705775374?utm_source=share_via&utm_content=profile)
@@ -18,8 +18,8 @@
 - **Upgradable‑Smart‑Contracts‑blockchain** – Use proxy patterns for future updates  
 - **merkle‑tree‑blockchain** – Verifiable blockchain using Merkle Trees  
 - **Pet** – Kotlin‑based pet shopping app  
-- **RenewGen** – App for real‑time renewable energy insights and tracking
-- **Ultra PiP Pro** - Extension for Picture-in-Picture mode
+- **RenewGen** – App for real‑time renewable energy insights and tracking  
+- **Ultra PiP Pro** – Extension for Picture-in-Picture mode
 
 ---
 
