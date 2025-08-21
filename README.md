@@ -6,7 +6,7 @@
 <p>Smart Contract Developer | Solidity Enthusiast | Open‑Source Contributor</p>
 
 <p>
-  <a href="[https://linkedin.com/in/prakash-yadav-705775374?utm_source=share_via&utm_content=profile" target="_blank">LinkedIn</a> 
+  <a href="https://linkedin.com/in/prakash-yadav-705775374?utm_source=share_via&utm_content=profile" target="_blank">LinkedIn</a> 
 </p>
 
 <p>
